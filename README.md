@@ -61,7 +61,6 @@ There are several ways to learn ethical hacking:
 
 # however follow my resources and become a hacker
 
-<b>
 Requirements: A clear Mindset
 
 Most Important 1 - 4
@@ -73,11 +72,10 @@ and download the courses in small parts in order
 Tryhackme: Beginner Level
 Link - https://tryhackme.com/hacktivities
 
-Pre Security only -
-
-Cyber Security
-How The WebWorks
-Windows Fundamentals
+### Pre Security only -
+- Cyber Security
+- How The WebWorks
+- Windows Fundamentals
 
 # Step - 2
 Networking - Networking is the most important thing in this field. You should know how the internet works, Wifi, IPV4, IPV6, Modem & Routers, TCPIP
@@ -129,46 +127,46 @@ Javascript for Pentesters 2:
 
 Mega Link - https://mega.nz/folder/ub40ARZD#TmsUGA1MK4_-lVbRvJG-QQ
 
-#Step - 6
-Start Learn Hacking now (courses are arranged in order)
+# Step - 6
+### Start Learn Hacking now (courses are arranged in order)
 
-Hacking in Practice Intensive Ethical Hacking MEGA Course:
+1 Hacking in Practice Intensive Ethical Hacking MEGA Course:
 
 Mega Link - https://mega.nz/folder/STp0RTgI#9evucI3TuA4ovRHwIzkZjw
 
-Learn Ethical Hacking From Scratch:
+2 Learn Ethical Hacking From Scratch:
 
 Mega Link - https://mega.nz/folder/uOhmlJDK#XurLsSfc4Q_2lqir8__7xQ
 
-Network Hacking Continued - Intermediate to Advanced:
+3 Network Hacking Continued - Intermediate to Advanced:
 
 Mega Link - https://mega.nz/folder/rDwizT6T#cfvtFj1U5NSML8A9e9WKKg
 
-Website Hacking Penetration Testing & Bug Bounty Hunting:
+4 Website Hacking Penetration Testing & Bug Bounty Hunting:
 
 Mega Link - https://mega.nz/folder/rLwGFBqL#fypM_Tl6_PqMLDllXPhdhw
 
-Intro to Bug Bounty Hunting and Web Application Hacking:
+5 Intro to Bug Bounty Hunting and Web Application Hacking:
 
 Mega Link - https://mega.nz/folder/HD5kFLIb#0GL5H-vCZ97egfYQDgGHOg
 
-Practical Ethical Hacking - The Complete Course
+6 Practical Ethical Hacking - The Complete Course
 
 Mega Link - https://mega.nz/folder/CKwkRTgD#eyLfo_HAvRIDZ7hJO_1N7w
 
-Learn Python & Ethical Hacking From Scratch:
+7 Learn Python & Ethical Hacking From Scratch:
 
 Mega Link - https://mega.nz/folder/vTgRBCBQ#-NcoMXnPAoQ1YnT7ywpwWw
 
-Complete Hacking Tools in Kali Linux:
+8 Complete Hacking Tools in Kali Linux:
 
 Mega Link - https://mega.nz/folder/OShBhKQa#AsIpstxQ_B3At405IbhsfA
 
-The Complete Ethical Hacking Course Beginner to Advanced:
+9 The Complete Ethical Hacking Course Beginner to Advanced:
 
 Mega Link - https://mega.nz/folder/TXpXUSbI#5vS2-RUclbt-kqRumNjyXg
 
-Recon for Ethical Hacking Penetration Testing & Bug Bounty:
+10 Recon for Ethical Hacking Penetration Testing & Bug Bounty:
 
 Mega Link - https://mega.nz/folder/CDphRCJB#eBZqSmleyW6Thld_8RbZwQ
 
@@ -177,19 +175,19 @@ Mega Link - https://mega.nz/folder/CDphRCJB#eBZqSmleyW6Thld_8RbZwQ
 You can learn More Languages these are optional but you can try. These will improve your skills.
 Do not give more time to these languages (Important are C, Python, SQL, js)
 
-Bash Mastery The Complete Guide to Bash Shell Scripting:
+1 Bash Mastery The Complete Guide to Bash Shell Scripting:
 
 Mega Link - https://mega.nz/folder/CGBj3S5S#UT2y_zzEcV8MybIEHvhpGQ
 
-Python For Pentesters:
+2 Python For Pentesters:
 
 Mega Link - https://mega.nz/folder/DCRhGKoA#wpRiRdPwtTNeK1cYXYnRQQ
 
-Python 101 for Hackers:
+3 Python 101 for Hackers:
 
 Mega Link- https://mega.nz/folder/qLBFTaDJ#V3FjAQQdBp7flYKrrF8r3g
 
-Learn Python Programming Masterclass: (Its generic Python classes for programmers)
+4Learn Python Programming Masterclass: (Its generic Python classes for programmers)
 
 Mega Link - https://mega.nz/folder/OKJTFKqa#9txi45qrFK_OgoefYatLPw
 
@@ -208,4 +206,4 @@ Over the wire: Best for to understand and to learn more advanced Linux
 https://overthewire.org/wargames/
 
 <b>Tryhackme: Try to solve the free labs
-https://tryhackme.com/
+https://tryhackme.com/</p>
